@@ -19,7 +19,3 @@ packages
 results/
 solution
 *.py
-
-src
-imgs
-output
